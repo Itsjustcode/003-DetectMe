@@ -1,0 +1,19 @@
+# Core Dependencies
+numpy
+pandas
+pillow
+scikit-learn
+matplotlib
+opencv-python
+
+# Machine Learning Framework (Choose One)
+tensorflow
+keras
+# OR if using PyTorch:
+# torch
+# torchvision
+# torchaudio
+
+# Optional (For Visualization and Performance Tracking)
+seaborn
+tqdm

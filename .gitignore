@@ -8,7 +8,7 @@ __pycache__/
 *.pyd
 
 # Ignore NumPy saved arrays
-*.npy
+# *.npy
 
 # Ignore system files (Mac & Linux)
 .DS_Store
